@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+*.npz
+*.ipynb_checkpoints
+results
+videos
+*.pyc
+*.mp4
+*.json
